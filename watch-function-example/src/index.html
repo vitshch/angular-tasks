@@ -9,13 +9,13 @@
     <textarea ng-model="helloTo.title"></textarea>
 </div>
 <script>
-        angular.module("myapp", []).controller("HelloController", function($scope) {
-            $scope.helloTo = {};
-            $scope.helloTo.title = "World, AngularJS";
-            $scope.$watch("helloTo.title", function(value) {
-                console.log(value);
-            });
+    angular.module("myapp", []).controller("HelloController", function($scope) {
+        $scope.helloTo = {};
+        $scope.helloTo.title = "World, AngularJS";
+        $scope.$watch("helloTo.title", function(value) {
+            console.log(value);
         });
+    });
 </script>
 </body>
 </html>
