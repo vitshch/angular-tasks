@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
       <module fileurl="file://$PROJECT_DIR$/task1/task1.iml" filepath="$PROJECT_DIR$/task1/task1.iml" />
       <module fileurl="file://$PROJECT_DIR$/task2/task2.iml" filepath="$PROJECT_DIR$/task2/task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task3/task3.iml" filepath="$PROJECT_DIR$/task3/task3.iml" />
       <module fileurl="file://$PROJECT_DIR$/watch-function-example/watch-function-example.iml" filepath="$PROJECT_DIR$/watch-function-example/watch-function-example.iml" />
     </modules>
   </component>
