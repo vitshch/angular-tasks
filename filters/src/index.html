@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="../lib/bootstrap-3.3.7-dist/css/bootstrap.min.css"/>
+</head>
+<body ng-app="filterApp">
+<script src="../lib/angular.min.js"></script>
+<script src="app.js"></script>
+
+<div ng-controller="FilterController">
+    <div ng-repeat="item in data.list">
+        <span>{{item.name | nameFilter}}</span>
+    </div>
+    &nbsp;
+    <div ng-repeat="item in data.list | filter: itemsFilter">
+        <span>{{item.name}}</span>
+    </div>
+</div>
+</body>
+</html>
