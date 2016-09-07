@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html ng-app="myapp">
+<head>
+    <meta charset="UTF-8">
+    <title>Notes application</title>
+    <script src="angular.min.js"></script>
+    <script src="notes.js"></script>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body ng-controller="NotesController">
+    <div>
+        Add note:<br>
+        <input type="text" ng-model="text"/>
+        <button ng-click="add()">Add note</button>
+    </div>
+    <div ng-repeat="note in notes">
+        <p class="note">{{note.text}}</p>
+        <button ng-click="remove(note.id)">Remove</button>
+    </div>
+</body>
+</html>

@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/task2.1/task3.1.iml" filepath="$PROJECT_DIR$/task2.1/task3.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/task2.2/task3.iml" filepath="$PROJECT_DIR$/task2.2/task3.iml" />
       <module fileurl="file://$PROJECT_DIR$/task3/task3.iml" filepath="$PROJECT_DIR$/task3/task3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task5/task5.iml" filepath="$PROJECT_DIR$/task5/task5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task6/task6.iml" filepath="$PROJECT_DIR$/task6/task6.iml" />
       <module fileurl="file://$PROJECT_DIR$/watch-function-example/watch-function-example.iml" filepath="$PROJECT_DIR$/watch-function-example/watch-function-example.iml" />
     </modules>
   </component>
