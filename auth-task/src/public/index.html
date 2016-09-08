@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html ng-app="social">
+<head>
+    <meta charset="UTF-8">
+    <title>Notes application</title>
+    <script src="angular.min.js"></script>
+    <script src="social.js"></script>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body ng-controller="UserController">
+        <input type="text" ng-model="user.login"/>
+        <input type="text" ng-model="user.pass"/>
+
+        <button type="button" ng-click="loginUser(user)">Login</button>
+</body>
+</html>

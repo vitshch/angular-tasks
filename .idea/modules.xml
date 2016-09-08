@@ -3,16 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/angular-tasks.iml" filepath="$PROJECT_DIR$/angular-tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-task/auth-task.iml" filepath="$PROJECT_DIR$/auth-task/auth-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/directives/directives.iml" filepath="$PROJECT_DIR$/directives/directives.iml" />
       <module fileurl="file://$PROJECT_DIR$/filters/filters.iml" filepath="$PROJECT_DIR$/filters/filters.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
       <module fileurl="file://$PROJECT_DIR$/task1/task1.iml" filepath="$PROJECT_DIR$/task1/task1.iml" />
       <module fileurl="file://$PROJECT_DIR$/task2/task2.iml" filepath="$PROJECT_DIR$/task2/task2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/task2.1/task3.1.iml" filepath="$PROJECT_DIR$/task2.1/task3.1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/task2.2/task3.iml" filepath="$PROJECT_DIR$/task2.2/task3.iml" />
       <module fileurl="file://$PROJECT_DIR$/task3/task3.iml" filepath="$PROJECT_DIR$/task3/task3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task2.2/task3.iml" filepath="$PROJECT_DIR$/task2.2/task3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task2.1/task3.1.iml" filepath="$PROJECT_DIR$/task2.1/task3.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/task5/task5.iml" filepath="$PROJECT_DIR$/task5/task5.iml" />
       <module fileurl="file://$PROJECT_DIR$/task6/task6.iml" filepath="$PROJECT_DIR$/task6/task6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task7/task7.iml" filepath="$PROJECT_DIR$/task7/task7.iml" />
       <module fileurl="file://$PROJECT_DIR$/watch-function-example/watch-function-example.iml" filepath="$PROJECT_DIR$/watch-function-example/watch-function-example.iml" />
     </modules>
   </component>
