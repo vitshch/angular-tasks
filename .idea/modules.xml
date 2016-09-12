@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/directives/directives.iml" filepath="$PROJECT_DIR$/directives/directives.iml" />
       <module fileurl="file://$PROJECT_DIR$/filters/filters.iml" filepath="$PROJECT_DIR$/filters/filters.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promise/promise.iml" filepath="$PROJECT_DIR$/promise/promise.iml" />
       <module fileurl="file://$PROJECT_DIR$/task1/task1.iml" filepath="$PROJECT_DIR$/task1/task1.iml" />
       <module fileurl="file://$PROJECT_DIR$/task2/task2.iml" filepath="$PROJECT_DIR$/task2/task2.iml" />
       <module fileurl="file://$PROJECT_DIR$/task3/task3.iml" filepath="$PROJECT_DIR$/task3/task3.iml" />
@@ -16,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/task6/task6.iml" filepath="$PROJECT_DIR$/task6/task6.iml" />
       <module fileurl="file://$PROJECT_DIR$/task7/task7.iml" filepath="$PROJECT_DIR$/task7/task7.iml" />
       <module fileurl="file://$PROJECT_DIR$/task8/task8.iml" filepath="$PROJECT_DIR$/task8/task8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task9/task9.iml" filepath="$PROJECT_DIR$/task9/task9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validation/validation.iml" filepath="$PROJECT_DIR$/validation/validation.iml" />
       <module fileurl="file://$PROJECT_DIR$/watch-function-example/watch-function-example.iml" filepath="$PROJECT_DIR$/watch-function-example/watch-function-example.iml" />
     </modules>
   </component>
