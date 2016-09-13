@@ -5,10 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/angular-tasks.iml" filepath="$PROJECT_DIR$/angular-tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/auth-task/auth-task.iml" filepath="$PROJECT_DIR$/auth-task/auth-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/directives/directives.iml" filepath="$PROJECT_DIR$/directives/directives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/directives1/directives1.iml" filepath="$PROJECT_DIR$/directives1/directives1.iml" />
       <module fileurl="file://$PROJECT_DIR$/filters/filters.iml" filepath="$PROJECT_DIR$/filters/filters.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
       <module fileurl="file://$PROJECT_DIR$/promise/promise.iml" filepath="$PROJECT_DIR$/promise/promise.iml" />
       <module fileurl="file://$PROJECT_DIR$/task1/task1.iml" filepath="$PROJECT_DIR$/task1/task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task10/task10.iml" filepath="$PROJECT_DIR$/task10/task10.iml" />
       <module fileurl="file://$PROJECT_DIR$/task2/task2.iml" filepath="$PROJECT_DIR$/task2/task2.iml" />
       <module fileurl="file://$PROJECT_DIR$/task3/task3.iml" filepath="$PROJECT_DIR$/task3/task3.iml" />
       <module fileurl="file://$PROJECT_DIR$/task2.2/task3.iml" filepath="$PROJECT_DIR$/task2.2/task3.iml" />

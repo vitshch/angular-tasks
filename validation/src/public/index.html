@@ -13,12 +13,8 @@
                 <form name="myForm" ng-action="myForm.submit(myForm)">
                     <fieldset>
                         <label>Login</label>
-                        <input type="text" name="login" ng-model="login" ng-minlength="2"/>
-                        <span style="color:red" ng-show="myForm.login.$dirty && myForm.login.$invalid"></span>
-                        <span ng-show="myForm.login.$error.minlength">Login is required.</span>
+                        <input type="text" name="login" ng-model="user.login" ng-minlength="2"/>
                     </fieldset>
-
-
                     <button type="submit" class="btn">Submit</button>
                 </form>
             </div>
