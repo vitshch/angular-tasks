@@ -3,14 +3,26 @@
 <head>
     <title>Form Validation</title>
     <link href="lib/bootstrap.min.css" rel="stylesheet">
+    <script src="lib/angular.min.js"></script>
+    <script src="form-validation.js"></script>
 </head>
-<script src="lib/angular.min.js"></script>
-<script src="form-validation.js"></script>
 <body ng-app="form-app">
-    <form name="myForm">
-        <input type="text" ng-model="login" ng-minlength="2"/>
-        <span style="color:red" ng-show="myForm.login.$dirty && myForm.login.$invalid"></span>
-        <span ng-show="myForm.login.$error.minlength">Login is required.</span>
-    </form>
+    <div class="container">
+        <div class="col-md-8">
+            <div class="row">
+                <form name="myForm" ng-action="myForm.submit(myForm)">
+                    <fieldset>
+                        <label>Login</label>
+                        <input type="text" name="login" ng-model="login" ng-minlength="2"/>
+                        <span style="color:red" ng-show="myForm.login.$dirty && myForm.login.$invalid"></span>
+                        <span ng-show="myForm.login.$error.minlength">Login is required.</span>
+                    </fieldset>
+
+
+                    <button type="submit" class="btn">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
