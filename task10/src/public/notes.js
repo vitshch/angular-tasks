@@ -3,18 +3,21 @@ var module = angular.module('myapp', []);
 module.controller('NotesController', function($scope, $http) {
     $scope.notes = [];
 
-   var update = function() {
-       var params = {params:{section:$scope.activeSection}};
-       $http.get("/notes", params)
-               .success(function(notes) {
-                    $scope.notes = notes;
-               });
-   };
+    var update = function() {
+        var params = {params:{section:$scope.activeSection}};
+        $http.get("/notes", params)
+            .success(function(notes) {
+                $scope.notes = notes;
+            });
+    };
 
     update();
 
     $scope.add = function() {
         var note = {text: $scope.text};
+        note.section = $scope.activeSection;
+        if (!$scope.text || $scope.text.length==0) return;
+
         $http.post("/notes", note)
                 .success(function() {
                     $scope.text = "";
