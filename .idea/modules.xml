@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/angular-tasks.iml" filepath="$PROJECT_DIR$/angular-tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angular2-hello-world/angular2-hello-world.iml" filepath="$PROJECT_DIR$/angular2-hello-world/angular2-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/angular2_2/angular2_2.iml" filepath="$PROJECT_DIR$/angular2_2/angular2_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/auth-task/auth-task.iml" filepath="$PROJECT_DIR$/auth-task/auth-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/directives/directives.iml" filepath="$PROJECT_DIR$/directives/directives.iml" />
       <module fileurl="file://$PROJECT_DIR$/directives1/directives1.iml" filepath="$PROJECT_DIR$/directives1/directives1.iml" />
